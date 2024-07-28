@@ -1,0 +1,16 @@
+/data/
+**/__pycache__/
+/demo_out/
+*.pyc
+model.zip
+/pretrained/
+**/DCN_*/
+network/backbone/DCNv2-master/DCN/onnx_graphsurgeon-0.2.3-py2.py3-none-any.whl
+utils/diff_ras/*/
+utils/extreme_utils/build/
+utils/extreme_utils/*.so
+utils/extreme_utils/*.pyd
+
+repo_test
+evaluator/evaluationResults/
+matches.json
