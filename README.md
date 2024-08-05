@@ -20,8 +20,9 @@ download trained weight from [GDrive](https://drive.google.com/file/d/1kjl-bTI7b
 python test.py sbd_time_embd --checkpoint /the/path/to/weight
 ```
 ### Testing on Cityscapes
-download trained weight from [GDrive, multi-component detection](https://drive.google.com/file/d/185XzMG20Cp5K7ziNHlFbTnzHWar9wAC4/view?usp=drive_link)
-download trained weight from [GDrive, single detection](https://drive.google.com/file/d/1BtQ4dhs8LPRP3vMBs5ZkX504U0QUtP-m/view?usp=drive_link)
+Multi-component detection. Download trained weight from [GDrive, multi-component detection](https://drive.google.com/file/d/185XzMG20Cp5K7ziNHlFbTnzHWar9wAC4/view?usp=drive_link)
+
+Single detection. download trained weight from [GDrive, single detection](https://drive.google.com/file/d/1BtQ4dhs8LPRP3vMBs5ZkX504U0QUtP-m/view?usp=drive_link)
 ```
 # multi-component detection
 ## coco evaluator
